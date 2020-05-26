@@ -1,0 +1,71 @@
+.box{
+	width: 100vw;
+	height: 400px;
+
+
+}
+.btn{
+
+  background-color: black;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 10px;
+  text-transform: uppercase;
+  transition-duration: 0.4s;
+  position: absolute;
+  top: 170px;
+  left: 50%
+ 
+
+}
+
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+/*hex*/
+
+.box-hex{
+  width: 100vw;
+  height: 400px;
+  margin-top: 10px;
+  
+
+}
+
+ #btn-hex{
+  background-color: black;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 10px;
+  text-transform: uppercase;
+  transition-duration: 0.4s;
+  position: relative;
+  top: 170px;
+  left: 50%
+ 
+
+}
+
+#btn-hex:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.text-uppercase{
+  text-transform: uppercase;
+  margin-left: 40vw;
+  padding-top: 20px;
+  
+}
